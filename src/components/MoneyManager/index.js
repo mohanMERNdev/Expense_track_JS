@@ -127,7 +127,7 @@ class MoneyManager extends Component {
             <h1 className="heading">Hi, Mohan</h1>
             <p className="header-content">
               Welcome back to your
-              <span className="money-manager-text"> Personal Expense Tracker</span>
+              <span className="money-manager-text"> Expense Tracker</span>
             </p>
           </div>
           <MoneyDetails
